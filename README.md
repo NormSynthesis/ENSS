@@ -20,7 +20,7 @@ First, go to http://www.eclipse.org/downloads/ and download the latest Eclipse v
 
 ### Configure and run SENSE
 
-In order to download SENSE, you just need to click here and download the source code of the project as a zip file. Once you open Eclipse, you 
+In order to install SENSE, [click here](https://github.com/NormSynthesis/SENSE/zipball/master) and download the source code of the project as a zip file. Once you open Eclipse, you 
 
 ### Example: cars' coordination
 
