@@ -1,6 +1,8 @@
 # The SENSE project
 Welcome to the website of the SENSE project, an open source software platform for the synthesis of Evolutionarily Stable and Effective normative systems for Multi-Agent Systems (MAS). By considering basic information about a MAS, such as the composition of its agent population and the type of situations that the agents can interact in, SENSE allows to predict (to synthesise) norms to achieve successful  coordination between the agents.   
 
+**This work was funded by the European Union via the H2020-MSCAIF project number 707688.** 
+
 ## What is SENSE?
 SENSE synthesises norms by employing [Evolutionary Game Theory (EGT)](https://en.wikipedia.org/wiki/Evolutionary_game_theory), a mathematical framework that allows to simulate the evolution of strategy adoption in Multi-Agent Systems. In EGT, strategy evolution allows to predict which strategies are [Evolutionarily Stable Strategies (ESS)](https://en.wikipedia.org/wiki/Evolutionary_game_theory#The_evolutionarily_stable_strategy), that is, strategies that, once established in a population, every agent prefers to conform on the assumption that everyone else does. 
 
